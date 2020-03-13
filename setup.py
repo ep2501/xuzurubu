@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="xuzurubu",
-    version="0.0.2",
+    version="0.0.4",
     url="https://github.com/ep2501/xuzurubu",
     license='BSD-3-Clause',
 
